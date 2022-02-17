@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseManager", "MouseManager\MouseManager.csproj", "{C38FF58E-6727-4FA7-B60E-91D1B5CDD826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38FF58E-6727-4FA7-B60E-91D1B5CDD826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38FF58E-6727-4FA7-B60E-91D1B5CDD826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38FF58E-6727-4FA7-B60E-91D1B5CDD826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38FF58E-6727-4FA7-B60E-91D1B5CDD826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {702B1C5F-2BFB-4573-A76F-35E827B14405}
+	EndGlobalSection
+EndGlobal
